@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![CodeArtificial's GitHub stats](https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact)
