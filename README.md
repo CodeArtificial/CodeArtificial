@@ -6,6 +6,6 @@
 
 <h2> 📈 &nbsp;My GitHub History</h2>
 <div align="center">
-  <img class="img" src="https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff"/>
-  <img class="img" src="https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark"/>
+  <img class="img" height=200 src="https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff"/>
+  <img class="img" height=200 src="https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark"/>
 </div>
