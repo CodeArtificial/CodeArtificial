@@ -9,5 +9,10 @@ CodeArtificial/CodeArtificial is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![CodeArtificial's GitHub stats](https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff)
+
+<a href="https://github.com/CodeArtificial">
+  <img height="180em" src="https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark"/>
+</a>
+![CodeArtificial's GitHub stats](https://github-readme-stats-vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff)
 ![Top Langs](https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark)
