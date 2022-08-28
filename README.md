@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <h2> 📈 &nbsp;My GitHub History</h2>
-<div style="display: flex; flex-direction: row;">
+<div align="center">
   <img class="img" src="https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff"/>
   <img class="img" src="https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark"/>
 </div>
