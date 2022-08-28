@@ -9,3 +9,5 @@
   <img class="img" height=165 src="https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff"/>
   <img class="img" height=165 src="https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark"/>
 </div>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
