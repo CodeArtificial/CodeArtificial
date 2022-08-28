@@ -13,3 +13,9 @@
 ## 🛠️ my tools
 
 ### languages
+
+<p> 
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+  
+  
+</p>
