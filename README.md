@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/CodeArtificial">
+<h2> 📈 &nbsp;My GitHub History</h2>
+<a href="https://github.com/CodeArtificial" style="display: flex; flex-direction: row;">
   <img height="180em" src="https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff"/>
   <img height="180em" src="https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark"/>
 </a>
-
-![Snake animation](https://github.com/CodeArtificial/CodeArtificial/blob/output/github-contribution-grid-snake.svg)
