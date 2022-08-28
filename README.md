@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 
 <a href="https://github.com/CodeArtificial">
-  <img height="150em" src="https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff"/>
-  <img height="150em" src="https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats-codeartificial.vercel.app/api?username=codeartificial&theme=dark&show_icons=true&icon_color=fff"/>
+  <img height="160em" src="https://github-readme-stats-codeartificial.vercel.app/api/top-langs/?username=codeartificial&layout=compact&theme=dark"/>
 </a>
 
 <a href="https://github.com/CodeArtificial">
