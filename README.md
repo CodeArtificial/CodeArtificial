@@ -12,7 +12,7 @@
 
 ## 🛠️ my tools
 
-### languages
+### 🔤 languages
 
 <p> 
     <a href="https://github.com/search?q=user%3ACodeArtificial+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
