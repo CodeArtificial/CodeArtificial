@@ -15,7 +15,7 @@
 ### languages
 
 <p> 
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+    <a href="https://github.com/search?q=user%3ACodeArtificial+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ACodeArtificial+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   
 </p>
